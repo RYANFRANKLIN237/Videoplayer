@@ -64,7 +64,7 @@ val mediaItem = MediaItem.Builder()
 player.setMediaItem(mediaItem)
 ```
 
-## Dependecies
+## Dependencies
 - Ensure you include the necessary dependencies in your 'build.gradle' file:
 - Make sure to replace the versions with your preferred versions of the library.
 
@@ -76,6 +76,8 @@ implementation "androidx.media3:media3-exoplayer-dash:1.3.1"
 ## Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests for improvements and bug fixes.
 
+
 Feel free to reach out if you have any questions or need further assistance. Happy coding! 🎉
+
 
 **Note:**  Replace "your_video_url" and "your_adaptive_stream_url" with actual URLs for testing. Ensure you handle permissions and network security configurations as required by your project specifications.
